@@ -1,9 +1,9 @@
-# Projeto Final da Disciplina de Metodoloia Científica na Ciência da Computação
-# Universidade Federal do Estado do Amazonas - UFAM
+# Dispositivo para detecção de focos de incêndio na Amazônia utilizando Arduino
 
-## Dispositivo para detecção de focos de incêndio na Amazônia utilizando Arduino
+### Universidade Federal do Estado do Amazonas - UFAM
+### Projeto Final da Disciplina de Metodologia Científica na Ciência da Computação
 
-##Autores:
+## Autores:
   - Daniel Gonzalez
   - Jéssica Loureiro
   - Marjorie Lobo
